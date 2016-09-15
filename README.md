@@ -4,7 +4,7 @@
 ### install
 
 ```bash
-wget https://raw.githubusercontent.com/mahammad/gg/master/install.sh ;sh install.sh; rm install.sh
+wget https://raw.githubusercontent.com/mahammad/gg-Tool/master/install.sh ;sh install.sh; rm install.sh
 ```
 
 ### commands & use
