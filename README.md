@@ -4,7 +4,7 @@
 ### install
 
 ```bash
-wget https://raw.githubusercontent.com/mahammad/gg/master/install.sh ;sh install.sh
+wget https://raw.githubusercontent.com/mahammad/gg/master/install.sh ;sh install.sh; rm install.sh
 ```
 
 ### commands & use
@@ -19,6 +19,8 @@ sudo gg -h
 ```bash
 sudo gg mahammad repoName
 ```
+![command screenshot](/img/ggcmd.png)
+
 ## Futures
 - [ ] basic install
 - [ ] gg package
